@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * Created with IntelliJ IDEA
  * User : Grape
- * Description :
+ * Description : 查找重复元素
  *
  * @date 2021/8/2 17:41
  */
@@ -25,3 +25,5 @@ public class CheckRepeatArr {
         return flag;
     }
 }
+
+
