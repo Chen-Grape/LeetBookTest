@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4eb9052a-4aa6-4e52-9bd4-cb35555e2e39" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:Chen-Grape/LeetBookTest.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wA9EmQZMqqlmX4lixQcqMrF4NZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager" selected="Application.MoveZeros">
+    <configuration name="AddOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddOne" />
+      <module name="LeetBookTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckRepeatArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckRepeatArr" />
+      <module name="LeetBookTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindArrayIntersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindArrayIntersection" />
+      <module name="LeetBookTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoveZeros" />
+      <module name="LeetBookTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlyAppearNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnlyAppearNum" />
+      <module name="LeetBookTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MoveZeros" />
+        <item itemvalue="Application.AddOne" />
+        <item itemvalue="Application.FindArrayIntersection" />
+        <item itemvalue="Application.OnlyAppearNum" />
+        <item itemvalue="Application.CheckRepeatArr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eb9052a-4aa6-4e52-9bd4-cb35555e2e39" name="Default Changelist" comment="" />
+      <created>1627890416914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627890416914</updated>
+      <workItem from="1627890424979" duration="6619000" />
+      <workItem from="1627902099160" duration="34000" />
+      <workItem from="1627954261880" duration="1960000" />
+      <workItem from="1628315720756" duration="13853000" />
+      <workItem from="1628427720070" duration="842000" />
+    </task>
+    <task id="LOCAL-00001" summary="去重重复数据并返回数组长度&#10;by grape">
+      <created>1627891657993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627891657993</updated>
+    </task>
+    <task id="LOCAL-00002" summary="彩票购买 贪心算法&#10;检查重复数组元素  &#10;反转函数 &#10;by grape">
+      <created>1627897640599</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627897640599</updated>
+    </task>
+    <task id="LOCAL-00003" summary="数组中只出现一次的元素&#10;by grape">
+      <created>1627970796533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627970796533</updated>
+    </task>
+    <task id="LOCAL-00004" summary="数组文件整合 &#10;追加移动数组 0&#10;查找两数组交集&#10;加一&#10;by grape">
+      <created>1628427880312</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628427880313</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="去重重复数据并返回数组长度&#10;by grape" />
+    <MESSAGE value="彩票购买 贪心算法&#10;检查重复数组元素  &#10;反转函数 &#10;by grape" />
+    <MESSAGE value="数组中只出现一次的元素&#10;by grape" />
+    <MESSAGE value="数组文件整合 &#10;追加移动数组 0&#10;查找两数组交集&#10;加一&#10;by grape" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组文件整合 &#10;追加移动数组 0&#10;查找两数组交集&#10;加一&#10;by grape" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1628428506250">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1628428506250" />
+    <state x="236" y="132" key="#xdebugger.evaluate" timestamp="1628322986001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="236" y="132" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1628322986001" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1628427872147">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1628427872147" />
+    <state width="433" height="466" key="DebuggerActiveHint" timestamp="1628318512962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="433" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1628318512962" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1628427634457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1628427634457" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1628427634457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1628427634457" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1628427634457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1628427634457" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1628427634457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1628427634457" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1628427634458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1628427634458" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1628427634458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1628427634458" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1628427634457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1628427634457" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1628427634458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1628427634458" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1628428235599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1628428235599" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1628428254409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1628428254409" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1628477578591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1628477578591" />
+    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628427785290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1628427785290" />
+    <state x="413" y="117" key="extract.method.dialog" timestamp="1627890793988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="117" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1627890793988" />
+  </component>
+</project>
