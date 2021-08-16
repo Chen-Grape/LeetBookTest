@@ -10,6 +10,12 @@ public class AddOne {
         int digits[] = {1,2,3,9};
         int[] ints = plusOne(digits);
     }
+
+    /**
+     * 数组某位加一
+     * @param digits
+     * @return
+     */
     public static int[] plusOne(int[] digits) {
 //        //
 //        int len = digits.length -1;

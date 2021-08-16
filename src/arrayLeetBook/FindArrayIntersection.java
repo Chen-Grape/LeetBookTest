@@ -13,6 +13,7 @@ public class FindArrayIntersection {
     public static  void main(String [] Args){
         //[1,2,2,1]
         int [] nums1 = {1,2,2,1};
+        int [] nums3 = {1,2,2,1};
         int [] nums2 = {2,2,};
         int[] intersect = intersect(nums1, nums2);
         System.out.println(intersect);
